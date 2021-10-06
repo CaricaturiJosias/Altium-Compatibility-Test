@@ -3,9 +3,9 @@ Testing repository regarding altium projects and their versionable caracteristic
 
 ### Other activities tested here
 
-## Using *.gitignore* 
+# Using *.gitignore* 
 
-# Items ignored
+## Items ignored
 
 1. **History** (As this folder always changes, there is no value in them)
 
