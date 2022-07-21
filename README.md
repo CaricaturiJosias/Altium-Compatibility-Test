@@ -1,2 +1,2 @@
 # Altium-Compatibility-Test
-Testing repository regarding altium projects and their versionable caracteristics when used with git
+Testing repository regarding altium projects and their versionable characteristics when used with git
